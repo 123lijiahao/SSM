@@ -1,0 +1,13 @@
+entrance\bean\Department.class
+entrance\bean\EmployeeExample$GeneratedCriteria.class
+entrance\bean\Employee.class
+entrance\bean\DepartmentExample$Criterion.class
+entrance\bean\EmployeeExample.class
+entrance\dao\DepartmentMapper.class
+entrance\bean\DepartmentExample.class
+entrance\bean\EmployeeExample$Criteria.class
+entrance\bean\EmployeeExample$Criterion.class
+entrance\bean\DepartmentExample$Criteria.class
+entrance\bean\DepartmentExample$GeneratedCriteria.class
+entrance\test\MapperTest.class
+entrance\dao\EmployeeMapper.class
